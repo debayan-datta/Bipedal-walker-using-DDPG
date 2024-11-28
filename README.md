@@ -1,5 +1,3 @@
-#### Project uploaded in github : [https://github.com/biswajit-github-2022/bipedal-walker-with-ddpg](https://github.com/biswajit-github-2022/bipedal-walker-with-ddpg)
-
 ## Training a Bipedal Walker using Deep Deterministic Policy Gradient algorithm
 
 This is a project of DeepRL , I have used the DDPG algorithm on the gymnassium environment "bipredal walker" of box2D environment . ([visit gymnassium here](https://gymnasium.farama.org/environments/box2d/bipedal_walker/))
